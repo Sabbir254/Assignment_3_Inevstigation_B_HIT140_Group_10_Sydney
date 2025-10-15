@@ -3,4 +3,5 @@ _Topic: Bat vs. Rat: The Forage Files.  Uncovering the wild truth behind nocturn
 1. Open the python project file in google colab.
 2. Upload the datasets in from device folder directly (not from the drive).
 3. We separated each portion of the code so that all types of viewers can easily understand the project's objectives and pipeline, from environment creation (part 1) to saving outputs (part 10).
-4. We write the code for the extended logistic regression analysis in part 9 (section 9c). We have written the code, allowing the viewer to select a relevant dataset based on their choice, upload it during the same process, and execute the code.
+4. We write the code for the extended logistic regression analysis in part 9 (section 9c). We have written the code, but for this project we didn't use any external datasets.
+5. Therefore, as the code has already been written, the viewer can choose any relevant dataset based on their choice and merge it in part 8 and easily get the result.
